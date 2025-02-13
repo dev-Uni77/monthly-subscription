@@ -1,0 +1,44 @@
+
+.entire {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: center; */
+  width: 13rem;
+  border-style: solid;
+  border-color: rgb(240, 238, 238);
+  text-align: center;
+  font-family: "42dot Sans", serif;
+  font-size: 0.7rem;
+  padding: 0 0 2rem 0;
+  color: gray;
+  padding: 1rem;
+}
+
+#p1 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color:black;
+  text-align: left;
+  margin: 0;
+  
+  }
+
+#div2 {
+  font-size: 2.2rem;
+  background-color: rgb(141, 219, 233);
+  width: 100%;
+  color: black;
+  
+}
+
+#div4 p {
+  /* border-width: 7rem; */
+  font-size: 1rem;
+  font-weight: bold;
+  color:aqua;
+  border: gray;
+  /* width: 70%; */
+
+}
