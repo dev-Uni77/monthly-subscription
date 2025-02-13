@@ -40,19 +40,20 @@
   
 }
 
-#div4 button {
+#div4 .button {
   /* border-width: 7rem; */
   font-size: 1rem;
   font-weight: bold;
   color:aqua;
   border: gray;
   /* width: 70%; */
+  style:none;
 
 }
 
-#div button:hover {
+#div4 .button:hover {
   bakground-color: skyblue;
 
 }
-
+   
  
